@@ -88,3 +88,11 @@
 </div>
 
 ###
+
+<p align="left">💡 Si estás buscando a alguien que pueda transformar datos en información valiosa y optimizar tus procesos, no dudes en conectarte conmigo. Estoy emocionado de colaborar y llevar tu negocio al siguiente nivel.</p>
+
+###
+
+<p align="left">📧 Correo electrónico: castrodry7@gmail.com</p>
+
+###
