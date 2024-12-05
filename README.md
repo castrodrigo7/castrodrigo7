@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔍 Soy un apasionado del análisis de datos con habilidades en Python, SQL y DAX. <br>🌐 Background en Comercio Internacional. <br>🎯 He fusionado mis conocimientos de machine learning y procesamiento de datos para optimizar procesos y generar insights estratégicos. <br>🚀 Aspiro a seguir aprendiendo y explorando nuevas tecnologías para maximizar el valor de los datos. <br>🏅 Siempre manteniendo mi enfoque en crear valor a través del análisis de datos.</p>
+<p align="left">🔍 Soy un apasionado del análisis de datos con habilidades en Python, SQL y DAX. <br>🌐 Background en Comercio Internacional. <br>🚀 Aspiro a seguir aprendiendo y explorando nuevas tecnologías para maximizar el valor de los datos. <br>🏅 Siempre manteniendo mi enfoque en crear valor a través del análisis de datos.</p>
 
 ###
 
